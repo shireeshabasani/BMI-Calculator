@@ -13,4 +13,4 @@ To run this project you don’t need to have any kind of local server but yet a 
 
 ![](images/Screenshot%201.png)
 
-![](images/Screenshot 3.png)
+![](images/screenshot-3.png)
