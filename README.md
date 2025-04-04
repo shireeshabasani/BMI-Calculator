@@ -11,6 +11,4 @@ The Body Mass Index(BMI) Calculator project is simply in HTML, CSS, and JavaScri
 
 To run this project you don’t need to have any kind of local server but yet a browser with a internet connection. We recommend you to use modern browsers like Microsoft Edge or Google Chrome for better performance. To execute the project, first, open the project in your browser by clicking the index.html file.
 
-![](images/Screenshot%201.png)
 
-![](images/screenshot-3.png)
